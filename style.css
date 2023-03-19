@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+}
+
+.product_block {
+    margin: 0 50px;
+}
+
+li {
+    list-style-type: none;
+}
